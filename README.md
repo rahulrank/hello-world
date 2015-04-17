@@ -1,3 +1,3 @@
 # hello-world
-my first project on git
 I am learning bit by bit...
+i have learnet workflow of git hub..
