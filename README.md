@@ -1,2 +1,3 @@
 # hello-world
 my first project on git
+I am learning bit by bit...
